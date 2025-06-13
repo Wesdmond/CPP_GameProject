@@ -1,0 +1,5 @@
+4
+You check the chest near the dungeon:
+Inside the chest you see some resources,
+STICK and a little note that's say:
+"IT'S DANGEROUS TO GO ALONE! TAKE THIS."
